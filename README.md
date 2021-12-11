@@ -1,4 +1,4 @@
-### Olá , Seja Bem Vindo(a) ao Meu Perfil !👋
+### Olá , Seja Bem-Vindo(a) ao Meu Perfil !👋
 
  <div>
   <a href="https://github.com/mateussalles">
