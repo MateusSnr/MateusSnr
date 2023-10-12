@@ -33,7 +33,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-### :smiley: My characteristics
+### :smiley: My characteristics:
 <ul>
   <li> :computer: Nowadays I'm Developing applications in low-level programming language,like Assembly Firmware to Atmega328p.</li>
   <li> :hammer: Creating 3D models and PCBs with the Team.</li>
