@@ -2,8 +2,7 @@
 
 # Olá , Seja Bem-Vindo(a) ao Meu Perfil !👋
 
-**Formação:**
-  <br>
+### Formação:
   <p>
     :pushpin: Técnico em Administração de Empresas - Etec de Peruíbe
     <br>
