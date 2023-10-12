@@ -2,7 +2,7 @@
 
 # Hello, Welcome to my Profile!👋
 
-### Graduation:
+### Graduation :mortar_board::
   <p>
     :pushpin: Business Administration Technician - Etec de Peruíbe
     <br>
@@ -10,7 +10,7 @@
   </p>
   
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusSnr&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Mateus github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusSnr&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Mateus github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSnr&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
 </div>
   
@@ -32,6 +32,15 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
+
+### :smiley: My characteristics
+<ul>
+  <li> :floppy_disk: Nowadays I'm Developing applications in low-level programming language,like Assembly Firmware to Atmega328p.</li>
+  <li> :hammer: Creating 3D models and PCBs with the Team.</li>
+  <li> :books: I'm studying Python, Cloud and C langauge.</li>
+  <li> :star: I enjoy going to the gym, playing, and watching volleyball.</li>
+</ul>
+<br>
 
 ### Contac-me:
 <div align-itens:"center">
