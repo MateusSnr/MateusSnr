@@ -4,7 +4,7 @@
 
 **Formação:**
   <br>
-  <p text>
+  <p>
     :pushpin: Técnico em Administração de Empresas - Etec de Peruíbe
     <br>
     :pushpin: Engenharia de Computação - Universidade Santa Cecília
