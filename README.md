@@ -35,7 +35,7 @@
 
 ### :smiley: My characteristics
 <ul>
-  <li> :floppy_disk: Nowadays I'm Developing applications in low-level programming language,like Assembly Firmware to Atmega328p.</li>
+  <li> :computer: Nowadays I'm Developing applications in low-level programming language,like Assembly Firmware to Atmega328p.</li>
   <li> :hammer: Creating 3D models and PCBs with the Team.</li>
   <li> :books: I'm studying Python, Cloud and C langauge.</li>
   <li> :star: I enjoy going to the gym, playing, and watching volleyball.</li>
