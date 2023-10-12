@@ -40,7 +40,6 @@
   <li> :books: I'm studying Python, Cloud and C langauge.</li>
   <li> :star: I enjoy going to the gym, playing, and watching volleyball.</li>
 </ul>
-<br>
 
 ### Contac-me:
 <div align-itens:"center">
