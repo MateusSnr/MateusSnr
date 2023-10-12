@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-# Olá , Seja Bem-Vindo(a) ao Meu Perfil !👋
+# Hello, Welcome to my Profile!👋
 
-### Formação:
+### Graduation:
   <p>
-    :pushpin: Técnico em Administração de Empresas - Etec de Peruíbe
+    :pushpin: Business Administration Technician - Etec de Peruíbe
     <br>
-    :pushpin: Engenharia de Computação - Universidade Santa Cecília
+    :pushpin: Computer Engineering - Universidade Santa Cecília
   </p>
   
 <div align="center">  
